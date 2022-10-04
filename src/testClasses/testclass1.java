@@ -34,9 +34,7 @@ public class testclass1 {
 	
 	}
 	@Test(priority=1)
-	public void test() throws InterruptedException {
-
-		
+	public void test() throws InterruptedException {		
 		
 //		lp.clicksignbutton();
 //	    lp.Enteremailid();
